@@ -12,3 +12,11 @@ Xem bóng đá
 Lập trình căn bản
 làm việc nhóm
 giải quyết vấn đề
+-Kế hoạch học tập
+Học git
+Tìm hiểu thêm về cơ sở dữ liệu
+Học python
+Làm một dự án mới
+học thêm về C#
+Làm một dự án lớn hơn có nhiều người áp dụng git
+

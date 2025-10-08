@@ -1,0 +1,5 @@
+Tính năng mới: Hệ thống đăng nhập người dùng
+Tính năng chat với bạn bè 
+Tính nằng voice chat
+Tính năng đăng nhập bằng fb
+Tính năng xóa tài khoản

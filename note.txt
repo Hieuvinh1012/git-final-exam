@@ -1,0 +1,4 @@
+Cảm nhận về git
+-Rất nhiều hàm khá khó nhớ
+-Thuận thiện cho làm việc nhóm
+-Thuận tiện cho việc lưu trữ dự án cá nhân
